@@ -1,7 +1,30 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Vishanth s chandan 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+💫 **About Me**  
+👋 Hi there! I'm Vishanth S. Chandan, a 3rd-year AI & Data Science engineering student at NMAMIT College.  
+🌱 **I’m currently learning:** MERN stack, Rust, and Data Structures & Algorithms.  
+👯 **I’m looking to collaborate on:** Data science, machine learning, and cloud-native projects.  
+💬 **Ask me about:** DevOps, business intelligence, or cricket scoring systems.  
+⚡ **Feel Free To Ask About:** Web development, hackathons, or anything tech-related!  
+🎮 **Fun Fact:** I recently tried PUBG PC and reached the top 10!  
+
+🚀 **Latest Projects:**  
+- **BIPro:** A business intelligence platform featuring data visualizations, cleaning, knowledge graphs, and animations.  
+- **FinPro:** A financial news and recommendation platform with live stock scores and tailored insights.  
+- **Cricket Scorer App:** A real-time cricket scoring platform with authentication and MongoDB integration.  
+
+💻 **Skills:**  
+- Programming: Python, JavaScript, Node.js  
+- Tools & Tech: MongoDB, Firebase, Socket.IO, Vanta.js  
+- Frontend: React, Next.js  
+- Others: Vizzu, Pygwalker, Three.js  
+
+🌐 **Let's Connect:**  
+- [GitHub](https://github.com/yourgithubusername)  
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedinusername)  
+
+---
+✨ **Always exploring, learning, and building!**  
 
 
 # 💻 Tech Stack:
