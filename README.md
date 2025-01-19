@@ -3,8 +3,7 @@
 💫 **About Me**  
 👋 Hi there! I'm Vishanth S. Chandan, a 3rd-year AI & Data Science engineering student at NMAMIT College.  
 🌱 **I’m currently learning:** MERN stack and Data Structures & Algorithms.  
-👯 **I’m looking to collaborate on:** Data science, machine learning, and cloud-native projects.  
-💬 **Ask me about:** DevOps, business intelligence.  
+👯 **I’m looking to collaborate on:** Data science, machine learning, and Web development projects.    
 ⚡ **Feel Free To Ask About:** Web development, hackathons, or anything tech-related!  
 🎮 **Fun Fact:** I recently tried PUBG PC and Free fire.
 
