@@ -15,9 +15,7 @@
 
   
 
-🌐 **Let's Connect:**  
-- [GitHub](https://github.com/codervishu132)  
-- [LinkedIn](https://www.linkedin.com/in/vishanth-s-chandan-b3b8452b2/)
+🌐 Socials:
 
 ###
 
